@@ -1,0 +1,1 @@
+j2objc --no-package-directories -use-arc --build-closure -d build/classes -sourcepath src/main/java:libSrc/javax.inject-1-sources.jar:libSrc/dagger-2.0-sources.jar src/main/java/com/example/SomeClassX.java src/main/java/com/example/ApplicationModule.java build/classes/com/example/'ApplicationModule$$ProvideSomeClassXFactory.java'

@@ -1,0 +1,1 @@
+javac -d build/classes -sourcepath src/main/java src/main/java/com/example/SomeClassX.java src/main/java/com/example/ApplicationModule.java -classpath lib/dagger-compiler-2.0-20150330.203231-18-jar-with-dependencies.jar
